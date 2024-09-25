@@ -1,16 +1,16 @@
-.box {
+.main {
     position: relative;
     width: 1536px;
     height: 484px;
     }
-    .box .categories {
+    .main .categories {
     position: fixed;
     width: 1536px;
     height: 484px;
-    top: 0;
-    left: 0;
+    top: 10%;
+    left: 10%;
     }
-    .box .category {
+    .main .category {
     left: 1191px;
     position: absolute;
     width: 345px;
@@ -22,45 +22,46 @@
     border-color: #00000080;
     box-shadow: 10px 10px 30px #0000001a;
     }
-    .box .overlap {
+    .main .overlap {
     position: relative;
     width: 310px;
     height: 443px;
     top: 21px;
     left: 19px;
     }
-    .box .overlap-group {
+    .main .overlap-group {
     position: absolute;
     width: 310px;
     height: 389px;
     top: 0;
     left: 0;
     }
-    .box .product-image {
+    .main .product-image {
     position: absolute;
     width: 308px;
     height: 310px;
     top: 0;
     left: 0;
     box-shadow: 4px 4px 10px #0000001a;
-    background-image: url(./img/vip-10.png);
+    background-image: url(./assets/p4.png);
+    border-radius: 10px;
     background-size: cover;
     background-position: 50% 50%;
     }
-    .box .text {
+    .main .text {
     position: absolute;
     width: 310px;
     height: 80px;
-    top: 309px;
+    top: 302px;
     left: 0;
     }
-    .box .div {
+    .main .div {
     position: absolute;
     width: 308px;
     height: 80px;
     top: 0;
     left: 0;
-    font-family: "Montserrat-SemiBold", Helvetica;
+    font-family: "Montserrat", Helvetica;
     font-weight: 600;
     color: transparent;
     font-size: 20px;
@@ -68,41 +69,42 @@
     letter-spacing: 0;
     line-height: 28.9px;
     }
-    .box .text-wrapper {
+    .main .text-wrapper {
     color: #000000b2;
     }
-    .box .span {
+    .main .span {
     color: #000000;
     }
-    .box .CTA-button {
+    .main .CTA-button {
     position: absolute;
     width: 308px;
     height: 54px;
     top: 389px;
     left: 0;
     border-radius: 50px;
-    background: linear-gradient(180deg, rgba(0, 0, 0, 0.2) 0%, rgba(39, 27, 117, 0) 100%);
+    background: linear-gradient(180deg, rgba(50, 35, 144, 1) 0%, rgba(28, 19, 97, 1) 100%);
     }
-    .box .group {
+    .main .group {
     position: relative;
     width: 310px;
     height: 54px;
     }
-    .box .text-wrapper-2 {
+    .main .text-wrapper-2 {
     position: absolute;
     width: 308px;
     height: 54px;
-    top: 0;
+    top: 15px;
     left: 0;
-    font-family: "Montserrat-SemiBold", Helvetica;
+    font-family: "Montserrat", Helvetica;
     font-weight: 600;
     color: #ffffff;
     font-size: 16px;
     text-align: center;
+   
     letter-spacing: 0;
     line-height: normal;
     }
-    .box .overlap-wrapper {
+    .main .overlap-wrapper {
     left: 794px;
     position: absolute;
     width: 345px;
@@ -112,10 +114,11 @@
     border-radius: 10px;
     border: 1px solid;
     border-color: #00000080;
-    box-shadow: 10px 10px 30px #0000001a;
+    box-shadow: 10px 10px 30px 0000001a;
     }
-    .box .product-image-2 {
-    background-image: url(./img/vip-05.png);
+    .main .product-image-2 {
+    background-image: url(./assets/p3.png);
+    border-radius: 10px;
     position: absolute;
     width: 308px;
     height: 310px;
@@ -125,7 +128,7 @@
     background-size: cover;
     background-position: 50% 50%;
     }
-    .box .overlap-group-wrapper {
+    .main .overlap-group-wrapper {
     left: 397px;
     position: absolute;
     width: 345px;
@@ -137,9 +140,10 @@
     border-color: #00000080;
     box-shadow: 10px 10px 30px #0000001a;
     }
-    .box .product-image-3 {
-    background-image: url(./img/individual-VIP.png);
+    .main .product-image-3 {
+    background-image: url(./assets/p2.png);
     position: absolute;
+    border-radius: 10px;
     width: 308px;
     height: 310px;
     top: 0;
@@ -148,7 +152,7 @@
     background-size: cover;
     background-position: 50% 50%;
     }
-    .box .div-wrapper {
+    .main .div-wrapper {
     left: 0;
     position: absolute;
     width: 345px;
@@ -160,9 +164,10 @@
     border-color: #00000080;
     box-shadow: 10px 10px 30px #0000001a;
     }
-    .box .product-image-4 {
-    background-image: url(./img/individual-normal.png);
+    .main .product-image-4 {
+    background-image: url(./assets/p1.png);
     position: absolute;
+    border-radius: 10px;
     width: 308px;
     height: 310px;
     top: 0;
