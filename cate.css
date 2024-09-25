@@ -1,0 +1,174 @@
+.box {
+    position: relative;
+    width: 1536px;
+    height: 484px;
+    }
+    .box .categories {
+    position: fixed;
+    width: 1536px;
+    height: 484px;
+    top: 0;
+    left: 0;
+    }
+    .box .category {
+    left: 1191px;
+    position: absolute;
+    width: 345px;
+    height: 484px;
+    top: 0;
+    background-color: #f8f8f8;
+    border-radius: 10px;
+    border: 1px solid;
+    border-color: #00000080;
+    box-shadow: 10px 10px 30px #0000001a;
+    }
+    .box .overlap {
+    position: relative;
+    width: 310px;
+    height: 443px;
+    top: 21px;
+    left: 19px;
+    }
+    .box .overlap-group {
+    position: absolute;
+    width: 310px;
+    height: 389px;
+    top: 0;
+    left: 0;
+    }
+    .box .product-image {
+    position: absolute;
+    width: 308px;
+    height: 310px;
+    top: 0;
+    left: 0;
+    box-shadow: 4px 4px 10px #0000001a;
+    background-image: url(./img/vip-10.png);
+    background-size: cover;
+    background-position: 50% 50%;
+    }
+    .box .text {
+    position: absolute;
+    width: 310px;
+    height: 80px;
+    top: 309px;
+    left: 0;
+    }
+    .box .div {
+    position: absolute;
+    width: 308px;
+    height: 80px;
+    top: 0;
+    left: 0;
+    font-family: "Montserrat-SemiBold", Helvetica;
+    font-weight: 600;
+    color: transparent;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 28.9px;
+    }
+    .box .text-wrapper {
+    color: #000000b2;
+    }
+    .box .span {
+    color: #000000;
+    }
+    .box .CTA-button {
+    position: absolute;
+    width: 308px;
+    height: 54px;
+    top: 389px;
+    left: 0;
+    border-radius: 50px;
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0.2) 0%, rgba(39, 27, 117, 0) 100%);
+    }
+    .box .group {
+    position: relative;
+    width: 310px;
+    height: 54px;
+    }
+    .box .text-wrapper-2 {
+    position: absolute;
+    width: 308px;
+    height: 54px;
+    top: 0;
+    left: 0;
+    font-family: "Montserrat-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    }
+    .box .overlap-wrapper {
+    left: 794px;
+    position: absolute;
+    width: 345px;
+    height: 484px;
+    top: 0;
+    background-color: #f8f8f8;
+    border-radius: 10px;
+    border: 1px solid;
+    border-color: #00000080;
+    box-shadow: 10px 10px 30px #0000001a;
+    }
+    .box .product-image-2 {
+    background-image: url(./img/vip-05.png);
+    position: absolute;
+    width: 308px;
+    height: 310px;
+    top: 0;
+    left: 0;
+    box-shadow: 4px 4px 10px #0000001a;
+    background-size: cover;
+    background-position: 50% 50%;
+    }
+    .box .overlap-group-wrapper {
+    left: 397px;
+    position: absolute;
+    width: 345px;
+    height: 484px;
+    top: 0;
+    background-color: #f8f8f8;
+    border-radius: 10px;
+    border: 1px solid;
+    border-color: #00000080;
+    box-shadow: 10px 10px 30px #0000001a;
+    }
+    .box .product-image-3 {
+    background-image: url(./img/individual-VIP.png);
+    position: absolute;
+    width: 308px;
+    height: 310px;
+    top: 0;
+    left: 0;
+    box-shadow: 4px 4px 10px #0000001a;
+    background-size: cover;
+    background-position: 50% 50%;
+    }
+    .box .div-wrapper {
+    left: 0;
+    position: absolute;
+    width: 345px;
+    height: 484px;
+    top: 0;
+    background-color: #f8f8f8;
+    border-radius: 10px;
+    border: 1px solid;
+    border-color: #00000080;
+    box-shadow: 10px 10px 30px #0000001a;
+    }
+    .box .product-image-4 {
+    background-image: url(./img/individual-normal.png);
+    position: absolute;
+    width: 308px;
+    height: 310px;
+    top: 0;
+    left: 0;
+    box-shadow: 4px 4px 10px #0000001a;
+    background-size: cover;
+    background-position: 50% 50%;
+    }
+    
