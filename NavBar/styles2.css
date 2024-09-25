@@ -194,9 +194,23 @@
     font-size: 16px;
     letter-spacing: 0;
     line-height: normal;
+    color: #000000;
+    text-decoration: none;
 }
 
-.nav-bar .text-wrapper-3 {
+.nav-bar .text-wrapper-3:hover,
+.nav-bar .text-wrapper-4:hover,
+.nav-bar .text-wrapper-5:hover,
+.nav-bar .text-wrapper-6:hover {
+    font-family: "Montserrat", Helvetica;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+    color: #271b75;
+    text-decoration: none;
+}
+
+/* .nav-bar .text-wrapper-3 {
     width: 53px;
     left: 0;
     color: #000000;
@@ -219,4 +233,4 @@
     width: 89px;
     left: 309px;
     color: #000000;
-}
+} */
