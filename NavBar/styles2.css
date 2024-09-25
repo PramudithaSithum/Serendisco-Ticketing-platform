@@ -9,7 +9,7 @@
     width: 100%;
     height: 60px;
     top: 0;
-    left: 0;
+    left: 0%;
     background: linear-gradient(
         180deg,
         rgb(39, 27, 117) 0%,
@@ -40,7 +40,7 @@
     width: 100%;
     height: 70px;
     top: 60px; /* Offset by the height of the announcement bar */
-    left: 0;
+    left: 0%;
     background-color: #ffffff;
     border-bottom: 1px solid #271b7566;
 }
@@ -50,27 +50,32 @@
     width: 147px;
     height: 60px;
     top: 4px;
-    left: 191px;
+    /* left: 191px; */
+    left: 10%;
     object-fit: cover;
 }
 
 .nav-bar .nav {
     position: absolute;
-    width: 265px;
+    /* width: 265px; */
+    width: 13.8%;
     height: 40px;
     top: 15px;
-    left: 1462px;
+    /* left: 1462px; */
+    left: 76%;
 }
 
 .nav-bar .nav-right {
     position: relative;
-    width: 267px;
+    /* width: 267px; */
+    width: 14%;
     height: 40px;
 }
 
 .nav-bar .login {
     position: absolute;
-    width: 72px;
+    /* width: 72px; */
+    width: 3.8%;
     height: 40px;
     top: 0;
     left: 195px;
