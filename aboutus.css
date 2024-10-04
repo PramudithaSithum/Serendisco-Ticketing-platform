@@ -1,0 +1,474 @@
+.about-US {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.about-US .div {
+    background-color: #ffffff;
+    width: 1920px;
+    height: 2981px;
+    position: relative;
+}
+
+.about-US .about-hero {
+    position: absolute;
+    width: 1536px;
+    height: 466px;
+    top: 170px;
+    left: 192px;
+}
+
+.about-US .screenshot {
+    position: absolute;
+    width: 743px;
+    height: 466px;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+}
+
+.about-US .about-main-details {
+    position: absolute;
+    width: 747px;
+    height: 460px;
+    top: 6px;
+    left: 793px;
+}
+
+.about-US .group {
+    position: absolute;
+    width: 741px;
+    height: 60px;
+    top: 400px;
+    left: 2px;
+}
+
+.about-US .overlap {
+    position: relative;
+    width: 751px;
+    height: 70px;
+    top: -5px;
+    left: -5px;
+    border-radius: 50px;
+    border: 5px solid;
+    border-color: #ffffff;
+    background: linear-gradient(180deg, rgba(50, 35, 144, 1) 100%, rgba(19, 0, 145, 0.5) 100%);
+}
+
+.about-US .overlap-group-wrapper {
+    position: relative;
+    width: 380px;
+    height: 60px;
+    left: 179px;
+}
+
+.about-US .overlap-group {
+    position: relative;
+    width: 378px;
+    height: 60px;
+}
+
+.about-US .text-wrapper {
+    position: absolute;
+    width: 378px;
+    height: 60px;
+    top: 0;
+    left: 0;
+    font-family: "Montserrat-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.about-US .arrow-forward {
+    position: absolute;
+    width: 24px;
+    height: 18px;
+    top: 21px;
+    left: 292px;
+}
+
+.about-US .text-wrapper-2 {
+    position: absolute;
+    height: 46px;
+    top: 0;
+    left: 2px;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: 46.2px;
+    white-space: nowrap;
+}
+
+.about-US .serendisco-inspired {
+    position: absolute;
+    width: 743px;
+    height: 64px;
+    top: 86px;
+    left: 0;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 32px;
+}
+
+.about-US .date {
+    position: absolute;
+    width: 289px;
+    height: 37px;
+    top: 202px;
+    left: 2px;
+}
+
+.about-US .vector {
+    position: absolute;
+    width: 32px;
+    height: 37px;
+    top: 0;
+    left: 0;
+}
+
+.about-US .text-wrapper-3 {
+    position: absolute;
+    height: 29px;
+    top: 3px;
+    left: 80px;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-weight: 400;
+    color: #444444;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 28.9px;
+    white-space: nowrap;
+}
+
+.about-US .time {
+    position: absolute;
+    width: 271px;
+    height: 36px;
+    top: 263px;
+    left: 0;
+}
+
+.about-US .img {
+    width: 36px;
+    position: absolute;
+    height: 36px;
+    top: 0;
+    left: 0;
+}
+
+.about-US .text-wrapper-4 {
+    position: absolute;
+    height: 29px;
+    top: 3px;
+    left: 82px;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-weight: 400;
+    color: #444444;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 28.9px;
+    white-space: nowrap;
+}
+
+.about-US .location {
+    position: absolute;
+    width: 438px;
+    height: 36px;
+    top: 323px;
+    left: 4px;
+}
+
+.about-US .vector-2 {
+    width: 29px;
+    position: absolute;
+    height: 36px;
+    top: 0;
+    left: 0;
+}
+
+.about-US .p {
+    position: absolute;
+    height: 29px;
+    top: 4px;
+    left: 78px;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-weight: 400;
+    color: #444444;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 28.9px;
+    white-space: nowrap;
+}
+
+.about-US .group-2 {
+    position: absolute;
+    width: 1538px;
+    height: 340px;
+    top: 796px;
+    left: 192px;
+}
+
+.about-US .why-would-you-say {
+    position: absolute;
+    width: 1007px;
+    height: 340px;
+    top: 0;
+    left: 0;
+    font-family: "Montserrat-SemiBold", Helvetica;
+    font-weight: 400;
+    color: transparent;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: 24px;
+}
+
+.about-US .span {
+    font-weight: 600;
+    color: #271b75;
+}
+
+.about-US .text-wrapper-5 {
+    font-family: "Montserrat-Regular", Helvetica;
+    color: #000000;
+    font-size: 16px;
+}
+
+.about-US .text-wrapper-6 {
+    font-family: "Montserrat-Regular", Helvetica;
+    color: #444444;
+    font-size: 20px;
+}
+
+.about-US .text-wrapper-7 {
+    font-family: "Montserrat-Regular", Helvetica;
+    color: #444444;
+    font-size: 20px;
+    line-height: 30px;
+}
+
+.about-US .image {
+    position: absolute;
+    width: 481px;
+    height: 340px;
+    top: 0;
+    left: 1057px;
+}
+
+.about-US .dilain-saparamadu-wrapper {
+    position: relative;
+    width: 479px;
+    height: 340px;
+    background-image: url(assets/about1.png);
+    background-size: 100% 100%;
+}
+
+.about-US .dilain-saparamadu {
+    position: absolute;
+    height: 20px;
+    top: 312px;
+    left: 63px;
+    font-family: "Montserrat-SemiBold", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.about-US .text-wrapper-8 {
+    font-weight: 600;
+}
+
+.about-US .text-wrapper-9 {
+    font-family: "Montserrat-Regular", Helvetica;
+}
+
+.about-US .group-3 {
+    position: absolute;
+    width: 1538px;
+    height: 340px;
+    top: 1778px;
+    left: 192px;
+}
+
+.about-US .tell-me-about-the {
+    position: absolute;
+    width: 1007px;
+    top: 0;
+    left: 0;
+    font-family: "Montserrat-SemiBold", Helvetica;
+    font-weight: 400;
+    color: transparent;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: 24px;
+}
+
+.about-US .div-wrapper {
+    position: relative;
+    width: 479px;
+    height: 340px;
+    background-image: url(assets/about3.png);
+    background-size: 100% 100%;
+}
+
+.about-US .text-wrapper-10 {
+    position: absolute;
+    height: 20px;
+    top: 312px;
+    left: 210px;
+    font-family: "Montserrat-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.about-US .group-4 {
+    position: absolute;
+    width: 1538px;
+    height: 442px;
+    top: 1236px;
+    left: 192px;
+}
+
+.about-US .fostering-tourism-do {
+    position: absolute;
+    width: 1007px;
+    top: 0;
+    left: 529px;
+    font-family: "Montserrat-SemiBold", Helvetica;
+    font-weight: 400;
+    color: transparent;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: 24px;
+}
+
+.about-US .image-2 {
+    position: absolute;
+    width: 481px;
+    height: 340px;
+    top: 0;
+    left: 0;
+}
+
+.about-US .overlap-group-2 {
+    position: relative;
+    width: 479px;
+    height: 340px;
+    background-image: url(assets/about23.png);
+    background-size: 100% 100%;
+}
+
+.about-US .text-wrapper-11 {
+    position: absolute;
+    height: 20px;
+    top: 312px;
+    left: 156px;
+    font-family: "Montserrat-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.about-US .group-wrapper {
+    position: fixed;
+    width: 1536px;
+    height: 200px;
+    top: 2214px;
+    left: 192px;
+    background-color: #271b75;
+    border-radius: 10px;
+}
+
+.about-US .group-5 {
+    position: relative;
+    width: 736px;
+    height: 136px;
+    top: 36px;
+    left: 401px;
+}
+
+.about-US .group-6 {
+    position: absolute;
+    width: 740px;
+    height: 92px;
+    top: 44px;
+    left: 0;
+}
+
+.about-US .hotline {
+    position: absolute;
+    width: 448px;
+    height: 20px;
+    top: 0;
+    left: 143px;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.about-US .text-wrapper-12 {
+    position: absolute;
+    width: 460px;
+    height: 20px;
+    top: 36px;
+    left: 137px;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.about-US .text-wrapper-13 {
+    position: absolute;
+    width: 734px;
+    height: 20px;
+    top: 72px;
+    left: 0;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.about-US .text-wrapper-14 {
+    position: absolute;
+    width: 142px;
+    height: 20px;
+    top: 0;
+    left: 297px;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
